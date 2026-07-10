@@ -16,9 +16,9 @@ createRoot(document.getElementById('root')).render(
     {/* <Blogger /> */}
     {/* <Playground /> */}
     {/* <Banking /> */}
-    {/* <ProductProvider>
+    <ProductProvider>
         <Invento />
-    </ProductProvider> */}
-    <Meal />
+    </ProductProvider>
+    {/* <Meal /> */}
   </StrictMode>,
 )
